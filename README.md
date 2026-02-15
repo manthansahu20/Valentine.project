@@ -54,7 +54,7 @@
 
 # 🔮 Activity Graph (Neon Animated)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omprakash0405&theme=tokyo-night&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&hide_border=true"/>
 </p>
 
 ---
